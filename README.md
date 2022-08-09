@@ -2,4 +2,4 @@
 Implementation of a timer on two 7-segment displays
 
 
-Check Challenge_1_descrption.pdf and Challenge_1_Presentation.pptx
+Check doc/Challenge_1_description.pdf and doc/Challenge_1_Presentation.pptx
